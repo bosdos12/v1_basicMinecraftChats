@@ -53,10 +53,6 @@ def main():
 	Label(maw, text="___________________________________________", font=150).pack()
 
 	
-
-
-
-
+	# running the gui loop
 	maw.mainloop()
-
 main()
